@@ -1,0 +1,15 @@
+body {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#board {
+    /* background-color: skyblue; */
+    background-image: url("./st3.webp");
+    background-position: center;
+    
+   
+
+    
+}
+
